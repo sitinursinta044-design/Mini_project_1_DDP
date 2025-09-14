@@ -106,14 +106,15 @@ Rekomendasinya adalah Pengelola Media Sosial, masuk dalam kriteria yaitu (sulit,
 4. Output kondisi 4
    
 Kondisi 4 menggunakan input : 
-- Jasa Copywriting, 1000000, mudah
-- Jasa Desain Infografis, 2000000, sedang
-- Jasa Pengelola Media Sosial, 4000000, sulit
+- Jasa Copywriting, 500000, mudah
+- Jasa Desain Infografis, 1500000, sedang
+- Jasa Pengelola Media Sosial, 2500000, sulit
 Screenshot Output : 
 
 ![Screenshot alur program keseluruhan](https://github.com/sitinursinta044-design/Mini_project_1_DDP/blob/main/file/output_case_4.png)
 
 Keterangan : 
 Rekomendasinya adalah Pengelola Media Sosial, masuk dalam kriteria yaitu (sulit, harga 4 jt ≥ 3 jt). meskipun tergolong sulit, namun melebihi harga minimum dan juga merupakan proyek dengan estimasi harga tertinggi.
+
 
 
