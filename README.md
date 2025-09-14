@@ -105,7 +105,7 @@ Rekomendasinya adalah Pengelola Media Sosial, masuk dalam kriteria yaitu (sulit,
 
 4. Output kondisi 4
    
-Kondisi 3 menggunakan input : 
+Kondisi 4 menggunakan input : 
 - Jasa Copywriting, 1000000, mudah
 - Jasa Desain Infografis, 2000000, sedang
 - Jasa Pengelola Media Sosial, 4000000, sulit
@@ -115,4 +115,5 @@ Screenshot Output :
 
 Keterangan : 
 Rekomendasinya adalah Pengelola Media Sosial, masuk dalam kriteria yaitu (sulit, harga 4 jt ≥ 3 jt). meskipun tergolong sulit, namun melebihi harga minimum dan juga merupakan proyek dengan estimasi harga tertinggi.
+
 
