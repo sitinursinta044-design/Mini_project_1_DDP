@@ -1,3 +1,9 @@
+# Nama    : Siti Nursinta
+# Nim     : 2509116087
+# Kelas   : Information System C 2025
+# program : Mini project 1 (Praktikum DDP)
+# Tema    : Sistem Manajemen Proyek Digital
+
 print("=== Sistem Manajemen Proyek Digital ===")
 
 nama_proyek = []
@@ -97,3 +103,4 @@ if rekomendasi != -1:
     print("Tingkat Kesulitan :", hasil[2])
 else:
     print("Tidak ada proyek yang memenuhi kriteria.")
+
